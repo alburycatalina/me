@@ -1,0 +1,78 @@
+baseURL = "http://alburycatalina.github.io"
+languageCode = "en-us"
+title = "Catalina Albury"
+theme = "avicenna-master"
+timeout=3000
+
+[params]
+  subtitle = "MSc Student"
+  interests ="Omics, Tech Literacy, Climate Justice"
+  cv_name = "CMA_CV.pdf"
+
+[[params.affilation]]
+  name = "Dalhousie University"
+  position = "MSc Student"
+  contact = "alburycatalina@dal.ca"
+
+[[params.affilation]]
+  name = "Applied Scientific Coding Society"
+  position = "Co-Founder"
+  contact = "asc.dal@gmail.com"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/alburycatalina"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/catalinaalbury"
+
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://www.linkedin.com/in/catalina-albury-b36a92117"
+
+
+[[params.introduction.paragraph]]
+  text="""Photosynthetic microbes in the ocean are responsible for approximately half of all global carbon fixation. The way that these microbes interact with their changing environment shapes the globe’s carbon cycles.
+  
+I am a masters student studying marine microbial proteomics under Dr. Erin Bertrand and Dr. Hugh MacIntyre. I am interested in how carbon and nutrient uptake shape primary productivity and carbon sequestration in the ocean. 
+   """
+
+[[params.projects]]
+	[[params.projects.project]]
+		name = "Semi-Continuous Dilution Script"
+		description  = "A script for maintaining phytoplankton cultures in logistic phase for steady state sampling. Input cell density and volume and it will calculate the amount of culture to remove and media to add."
+		project_page = "https://github.com/alburycatalina/dilution-script"
+		code_link = "https://github.com/alburycatalina/dilution-script/blob/master/predilution.R"
+
+
+
+ [[params.projects.project]]
+		name = "Intro to Coding for Jr. High"
+		description  = "A 2 day introductory tutorial for Bahamian high school students at Forest Heights Academy"
+		project_page = "https://github.com/alburycatalina/FHA_intro_to_coding"
+
+
+
+[[params.publications]]
+  year="Preprint"
+
+  [[params.publications.paper]]
+		name = "The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
+		authors = " __Catalina Albury__"
+		link = "https://mypaperishere.com"
+
+
+[[params.publications]]
+  year="In progress"
+
+  [[params.publications.paper]]
+    name = "Global proteomic response of the diatom Fragilariopsis cylindrus to B12 starvation and increased temperatures in Fragilariopsis cylindrus"
+    authors = " __Catalina Albury__, Dr. Erin Bertrand, Dr. Elden Rowland"
+
+
+
