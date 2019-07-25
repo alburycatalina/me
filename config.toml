@@ -38,7 +38,7 @@ publishDir = "docs"
 
 
 [[params.introduction.paragraph]]
-  text="""Photosynthetic microbes lol in a whatevewr nd the the ocean are responsible for approximately half of all global carbon fixation. The way that these microbes interact with their changing environment shapes the globe’s carbon cycles.
+  text="""Photosynthetic microbes in the ocean are responsible for approximately half of all global carbon fixation. The way that these microbes interact with their changing environment shapes the globe’s carbon cycles.
   
 I am a masters student studying marine microbial proteomics under Dr. Erin Bertrand and Dr. Hugh MacIntyre. I am interested in how carbon and nutrient uptake shape primary productivity and carbon sequestration in the ocean. 
    """
