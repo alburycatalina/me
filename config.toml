@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Catalina Albury"
 theme = "avicenna-master"
 timeout=3000
+publishDir = "docs"
 
 [params]
   subtitle = "MSc Student"
