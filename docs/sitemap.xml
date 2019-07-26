@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alburycatalina.github.io/personal_website/</loc>
+    <loc>http://alburycatalina.github.io/me/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alburycatalina.github.io/personal_website/categories/</loc>
+    <loc>http://alburycatalina.github.io/me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alburycatalina.github.io/personal_website/tags/</loc>
+    <loc>http://alburycatalina.github.io/me/tags/</loc>
     <priority>0</priority>
   </url>
   
