@@ -40,7 +40,7 @@ publishDir = "docs"
 [[params.introduction.paragraph]]
   text="""Photosynthetic microbes in the ocean are responsible for approximately half of all global carbon fixation. The way that these microbes interact with their changing environment shapes the globe’s carbon cycles.
   
-I am a masters student studying marine microbial proteomics under Dr. Erin Bertrand and Dr. Hugh MacIntyre. I am interested in how carbon and nutrient uptake shape primary productivity and carbon sequestration in the ocean. 
+I am a masters student studying marine microbial proteomics under Dr. Erin Bertrand. I'm interested in how micronutrient demand and changing temperature shape primary productivity and carbon sequestration in the ocean. 
    """
 
 [[params.projects]]
@@ -65,7 +65,7 @@ I am a masters student studying marine microbial proteomics under Dr. Erin Bertr
   [[params.publications.paper]]
 		name = "The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
 		authors = " __Catalina Albury__"
-		link = "https://mypaperishere.com"
+		link = "https://www.researchgate.net/publication/336720705_Effects_of_Vitamin_B12_Starvation_on_Heat_Resistance_in_Fragilariopsis_Cylindrus"
 
 
 [[params.publications]]
