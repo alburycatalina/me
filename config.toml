@@ -8,7 +8,7 @@ publishDir = "docs"
 [params]
   subtitle = "MSc Student"
   interests ="Omics, Tech Literacy, Climate Justice"
-  cv_name = "CMA_CV.pdf"
+  cv_name = "Catalina_CV.pdf"
 
 [[params.affilation]]
   name = "Dalhousie University"
