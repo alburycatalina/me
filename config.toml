@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   subtitle = "MSc Candidate"
-  interests ="Omics, Scientific Outreach, Climate Justice"
+  interests ="Omics, Bioinformatics, Scientific Outreach, Climate Justice"
 
 [[params.affilation]]
   name = "Dalhousie University"
