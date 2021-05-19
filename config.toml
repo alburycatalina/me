@@ -6,19 +6,14 @@ timeout=3000
 publishDir = "docs"
 
 [params]
-  subtitle = "MSc Student"
-  interests ="Omics, Tech Literacy, Climate Justice"
+  subtitle = "MSc Candidate"
+  interests ="Omics, Scientific Outreach, Climate Justice"
   cv_name = "Catalina_CV.pdf"
 
 [[params.affilation]]
   name = "Dalhousie University"
-  position = "MSc Student"
+  position = "MSc Candidate"
   contact = "alburycatalina@dal.ca"
-
-[[params.affilation]]
-  name = "Diversity of Nature"
-  position = "Co-Founder & Coordinator"
-  contact = "https://www.diversityofnature.com/contact"
 
 [[params.affilation]]
   name = "Applied Scientific Coding Society"
@@ -43,11 +38,16 @@ publishDir = "docs"
   icon = "linkedin"
   url = "https://www.linkedin.com/in/catalina-albury-b36a92117"
 
+[[params.social]]
+  name = "Researchgate"
+  icon = "researchgate"
+  url = "https://www.researchgate.net/profile/Catalina-Albury"
+
 
 [[params.introduction.paragraph]]
   text="""Photosynthetic microbes in the ocean are responsible for approximately half of all global carbon fixation. The way that these microbes interact with their changing environment shapes the globe’s biogeomechemical cycles, and therefore our climate.
   
-I am a masters student studying marine microbial proteomics under Dr. Erin Bertrand. I'm interested in how micronutrient limitation and changing temperature shape diatom physiology in the ocean. My current research uses high throughput proteomic and metabolomic techniques to answer these questions.
+I am a MSc researcher studying marine microbial proteomics under Dr. Erin Bertrand. I'm interested in how micronutrient limitation and changing temperature shape diatom physiology in the ocean. My current research uses high throughput proteomic and metabolomic techniques to answer these questions.
    """
 
 [[params.projects]]
@@ -67,14 +67,23 @@ I am a masters student studying marine microbial proteomics under Dr. Erin Bertr
 
 
 [[params.publications]]
-  year="Honours Thesis"
+  year="2019"
 
   [[params.publications.paper]]
-		name = "The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
+		name = "Honour's Thesis: The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
 		authors = " __Catalina Albury__"
 		link = "https://www.researchgate.net/publication/336720705_Effects_of_Vitamin_B12_Starvation_on_Heat_Resistance_in_Fragilariopsis_Cylindrus"
     dest = "Researchgate"
 
+
+[[params.publications]]
+  year="2021"
+
+  [[params.publications.paper]]
+		name = "Ecology and evolutionary biology must elevate BIPOC scholars"
+		authors = " Melanie Massey, Suchinta Arif, __Catalina Albury__, Victoria Cluney"
+		link = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13716"
+    dest = "Ecology Letters"
 
 [[params.publications]]
   year="In progress"
@@ -82,6 +91,7 @@ I am a masters student studying marine microbial proteomics under Dr. Erin Bertr
   [[params.publications.paper]]
     name = "Global proteomic response of the diatom Fragilariopsis cylindrus to B12 starvation and increased temperatures"
     authors = " __Catalina Albury__, Dr. Elden Rowland, Dr. Erin Bertrand"
+
 
 
 
