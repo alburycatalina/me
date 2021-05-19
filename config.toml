@@ -1,6 +1,6 @@
 baseURL = "http://alburycatalina.github.io/me/"
 languageCode = "en-us"
-title = "Catalina Albury, BSc."
+title = "Catalina Albury"
 theme = "avicenna-master"
 timeout=3000
 publishDir = "docs"
