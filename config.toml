@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
   subtitle = "MSc Candidate"
-  interests ="Omics, Bioinformatics, Scientific Outreach, Climate Justice"
+  interests ="Marine Ecology, Science Communication, Climate Justice, Scientific Computing"
 
 [[params.affilation]]
   name = "Dalhousie University"
@@ -69,10 +69,10 @@ publishDir = "docs"
   year="2019"
 
   [[params.publications.paper]]
-		name = "Honour's Thesis: The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
+		name = "The Effects of Vitamin B12 Starvation on Heat Resistance in Fragilariopsis cylindrus"
 		authors = " __Catalina Albury__"
 		link = "https://www.researchgate.net/publication/336720705_Effects_of_Vitamin_B12_Starvation_on_Heat_Resistance_in_Fragilariopsis_Cylindrus"
-    dest = "Researchgate"
+    dest = "Honours Thesis"
 
 
 [[params.publications]]
@@ -80,9 +80,20 @@ publishDir = "docs"
 
   [[params.publications.paper]]
 		name = "Ecology and evolutionary biology must elevate BIPOC scholars"
-		authors = " Melanie Massey, Suchinta Arif, __Catalina Albury__, Victoria Cluney"
+		authors = " Melanie Massey, Suchinta Arif, __Catalina Albury__, et al."
 		link = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13716"
     dest = "Ecology Letters"
+
+  [[params.publications.paper]]
+		name = "10 simple rules for engaging underrepresented students in science"
+		authors = " Suchinta Arif, Melanie Massey __Catalina Albury__, et al."
+		link = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13716"
+    dest = "Ecology Letters"
+
+  [[params.publications.paper]]
+		name = "Making room for Black, Indigenous, and People of Colour Scholars in Ecology and Evolutionary biology"
+		authors = " Melanie Massey, Suchinta Arif, __Catalina Albury__, et al."
+    dest = "Canadian Conference for Fisheries Research-Society for Canadian Limnologists Meeting"
 
 [[params.publications]]
   year="In progress"
