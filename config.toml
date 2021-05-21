@@ -94,10 +94,12 @@ publishDir = "docs"
 		authors = " Melanie Massey, Suchinta Arif, __Catalina Albury__, et al."
     dest = "Canadian Conference for Fisheries Research-Society for Canadian Limnologists Meeting"
 
+[[params.publications]]
+  year="In Progress"
+
   [[params.publications.paper]]
     name = "Impacts of Increased Temperature and B12 Availability on Global Protein Expression in the Polar Diatom, Fragilariopsis cylindrus"
     authors = " __Catalina Albury__, Dr. Elden Rowland, Dr. Erin Bertrand"
-    dest = "[In progress]"
 
 
 
