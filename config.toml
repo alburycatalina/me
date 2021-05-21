@@ -85,10 +85,9 @@ publishDir = "docs"
     dest = "Ecology Letters"
 
   [[params.publications.paper]]
-		name = "10 simple rules for engaging underrepresented students in science"
+		name = "10 simple rules for engaging underrepresented students in science [In press]"
 		authors = " Suchinta Arif, Melanie Massey __Catalina Albury__, et al."
-		link = "https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13716"
-    dest = "Ecology Letters"
+    dest = "PLOS Computational Biology; Submitted March 27th, 2021"
 
   [[params.publications.paper]]
 		name = "Making room for Black, Indigenous, and People of Colour Scholars in Ecology and Evolutionary biology"
