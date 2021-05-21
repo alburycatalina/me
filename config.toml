@@ -95,7 +95,7 @@ publishDir = "docs"
     dest = "Canadian Conference for Fisheries Research-Society for Canadian Limnologists Meeting"
 
   [[params.publications.paper]]
-    name = "Global proteomic response of the diatom Fragilariopsis cylindrus to B12 starvation and increased temperatures"
+    name = "Impacts of Increased Temperature and B12 Availability on Global Protein Expression in the Polar Diatom, Fragilariopsis cylindrus"
     authors = " __Catalina Albury__, Dr. Elden Rowland, Dr. Erin Bertrand"
     dest = "[In progress]"
 
