@@ -59,8 +59,8 @@ publishDir = "docs"
 
 
  [[params.projects.project]]
-		name = "Intro to Coding for Jr. High"
-		description  = "A 2-day introductory coding tutorial for Bahamian high school students at Forest Heights Academy"
+		name = "Intro to Coding for Sr. High"
+		description  = "Code for a 2-day introductory coding tutorial for Bahamian high school students at Forest Heights Academy"
 		project_page = "https://github.com/alburycatalina/FHA_intro_to_coding"
 
 
