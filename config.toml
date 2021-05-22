@@ -44,7 +44,7 @@ publishDir = "docs"
 
 
 [[params.introduction.paragraph]]
-  text="""I am a MSc researcher studying marine microbial ecophysiology under the supervision of [Dr. Erin Bertrand](https://erinbertrand.wixsite.com/bertrandlab). Marine microbes shape global biogeochemical cycles, and therefore our climate. My current research uses high-throughput proteomic and metabolomic approaches to provide insight on how micronutrient limitation and increasing temperatures shape diatom physiology in a changing ocean.
+  text="""I am an MSc researcher studying marine microbial ecophysiology under the supervision of [Dr. Erin Bertrand](https://erinbertrand.wixsite.com/bertrandlab). Marine microbes shape global biogeochemical cycles, and therefore our climate. My current research uses high-throughput proteomic and metabolomic approaches to provide insight on how micronutrient limitation and increasing temperatures shape diatom physiology in a changing ocean.
   
   When I'm not in the lab, you can often find me cycling, cooking, or teaching. I'm passionate about getting young people excited about science and providing access to information, tools, and skills that spark scientific creativity.
   """
