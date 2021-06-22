@@ -85,7 +85,7 @@ publishDir = "docs"
     dest = "Ecology Letters"
 
   [[params.publications.paper]]
-		name = "Ten Simple Rules for Supporting Historically Underrepresented Students in Science, [Under Revision]"
+		name = "Ten Simple Rules for Supporting Historically Underrepresented Students in Science [Under Revision]"
 		authors = " Suchinta Arif, Melanie Massey, Natalie Klinard, Julie Charbonneau, Loay Jabre, Ana Barbosa Martins, Danielle Gaitor, Rhiannon Kirton, __Catalina Albury__, Karma Nanglu"
     dest = "PLOS Computational Biology; Submitted March 27th, 2021"
 
