@@ -15,9 +15,9 @@ publishDir = "docs"
   contact = "alburycatalina@dal.ca"
 
 [[params.affilation]]
-  name = "Applied Scientific Coding Society"
-  position = "Co-Founder"
-  contact = "asc.dal@gmail.com"
+  name = "ONE North End"
+  position = "Community Developer"
+  contact = "catalina@onenorthend.ca"
 
 
 
